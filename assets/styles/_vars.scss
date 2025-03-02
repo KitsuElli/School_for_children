@@ -42,14 +42,14 @@ $color-main-text: rgb(0, 53, 39);
 }
 %color-title-pages {
   font-weight: 900;
-  color: #dbce0f;
-  // color: #006b39;
-  // background-image: linear-gradient(
-  //   0deg,
-  //   #afa81e 20%,
-  //   #dee82a 30%,
-  //   #c0c52c 45%
-  // );
+  
+  color: #006b39;
+  background-image: linear-gradient(
+    0deg,
+    #afa81e 20%,
+    #dee82a 30%,
+    #c0c52c 45%
+  );
   background-clip: text;
   -webkit-background-clip: text;
   // -webkit-text-fill-color: transparent;
