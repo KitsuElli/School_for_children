@@ -24,7 +24,7 @@ body main .wrap-main .grades .grade .button-start a {
   font-weight: 800;
   color: rgb(0, 53, 39);
   padding: 20px 30px;
-  background: linear-gradient(45deg, rgb(72, 191, 145), rgb(157, 255, 100));
+  background: linear-gradient(45deg, rgb(222, 122, 4), rgb(249, 249, 40));
   border: 2px solid rgb(0, 107, 57);
   border-radius: 20px;
   box-shadow: 0 10px 0 rgb(0, 107, 57);
@@ -59,7 +59,7 @@ body header .wrap-header .profile a:hover {
 }
 
 body {
-  background-color: rgba(0, 199, 80, 0.22);
+  background-color: rgba(97, 223, 139, 0.573);
 }
 body header .wrap-header {
   max-width: 1440px;
@@ -117,7 +117,7 @@ body main .wrap-main .grades .grade {
   gap: 20px;
 }
 body main .wrap-main .grades .grade h2 {
-  color: rgb(0, 107, 57);
+  color: rgb(255, 246, 23);
   font-weight: 800;
 }
 body main .wrap-main .grades .grade .grade__desc {
