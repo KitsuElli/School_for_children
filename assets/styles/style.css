@@ -24,7 +24,7 @@ body main .wrap-main .grades .grade .button-start a {
   font-weight: 800;
   color: rgb(0, 53, 39);
   padding: 20px 30px;
-  background: linear-gradient(45deg, rgb(222, 122, 4), rgb(249, 249, 40));
+  background: linear-gradient(45deg, rgba(222, 122, 4, 0.8), rgb(249, 249, 40));
   border: 2px solid rgb(0, 107, 57);
   border-radius: 20px;
   box-shadow: 0 10px 0 rgb(0, 107, 57);
